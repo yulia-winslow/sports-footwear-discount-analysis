@@ -49,32 +49,6 @@
 
 **Key insight**: Same product category requires opposite strategies depending on brand
 
----
-
-## 💼 Business Implications
-
-### ❌ WRONG Strategy:
-"Apply discounts uniformly across all channels"
-
-### ✅ CORRECT Strategy:
-"Personalize discount strategy by brand"
-
-**Nike Products:**
-- 💰 Maximize online promotions (email, app, targeted ads)
-- 📱 Promo codes and flash sales
-- 💻 Reduce offline discount spending
-
-**Reebok Products:**
-- 🏪 Prioritize in-store promotions  
-- 🛒 Prominent price tags and "deal of the day" displays
-- 📍 Local store advertising
-- ⚠️ Minimize online discounts for Lifestyle & Gym categories
-
-**Other Brands** (Adidas, New Balance, ASICS, Puma):
-- ✅ Balanced approach — discounts work equally well in both channels
-
----
-
 ## 🎓 The Marketing Philosophy Connection
 
 ### Why This Pattern Exists:
@@ -122,20 +96,6 @@ This is a perfect case study of how:
 - Aggregate data can hide valuable patterns
 - Brand positioning influences purchase behavior
 - Marketing strategy must be segmented, not universal
-
----
-
-## 📝 Recommendation
-
-**Implement brand-specific discount strategies**:
-- Reallocate Nike marketing budget → online channels
-- Reallocate Reebok marketing budget → in-store activations  
-- Expected ROI improvement: 56-75% based on current effect differences
-
-**Next steps**: 
-- Test implementation with A/B testing
-- Monitor category-level performance
-- Extend analysis to price elasticity and customer lifetime value
 
 ---
 
