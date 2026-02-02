@@ -84,35 +84,7 @@ These categories for **both brands** respond better to online discounts:
 
 ---
 
-## 📋 Practical Recommendations
-
-### If selling **Nike**:
-All categories → **aggressive online discounts**
-- Email campaigns, promo codes, targeted advertising
-- Minimize offline promo (ineffective)
-
-### If selling **Reebok**:
-
-**Online discounts** (Training, Basketball, Running):
-- 💰 Promo codes and online sales
-- 📱 Push notifications in app
-
-**Offline discounts** (Lifestyle, Gym):
-- 🏪 In-store "deal of the day" stands
-- 🛒 Bright price tags
-- 👟 "Try and buy" zones
-- ⚠️ **AVOID** online discounts on these categories (counterproductive!)
-
-### Universal Rule:
-**Training and Basketball** → always do online discounts (works for all brands)
-
----
-
 ## 🎯 Final Conclusion
-
-Your Lifestyle hypothesis turned out to be **partially correct**, but with important caveat:
-
-❌ **Category alone doesn't determine discount effectiveness**
 
 ✅ **Combination of BRAND + CATEGORY determines customer behavior**
 
