@@ -194,30 +194,6 @@ All discount sizes (5%, 10%, 15%, 20%, 30%) show approximately the same result i
 - Effect works in 70-72% of cases
 - **BUT effectiveness depends on brand and channel!**
 
-### 4. Business Implications
-
-❌ **DON'T apply universal strategy** "discounts everywhere equally"
-
-✅ **PERSONALIZE by brand:**
-
-**Selling Nike?**
-- 💰 Aggressive online promotions and email campaigns
-- 📱 Promo codes and app discounts
-- 🎯 Targeted advertising with discounts
-- 💻 Minimize offline discounts (ineffective)
-
-**Selling Reebok?**
-- 🏪 In-store "deal of the day" promotions
-- 🛒 Bright price tags and promo displays
-- 📍 Local advertising near stores
-- 💻 Minimize online discounts (ineffective)
-
-**Selling other brands?** (Adidas, New Balance, ASICS, Puma)
-- ✅ Apply discounts evenly in both channels
-- Difference in effect is minimal (±0.35 units)
-
-✅ **Discount size not critical** (5-30% work similarly) — choose optimal for margin
-
 ---
 
 ## 🔍 Analysis Limitations
