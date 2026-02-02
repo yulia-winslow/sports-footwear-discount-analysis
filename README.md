@@ -61,27 +61,6 @@ Compared sales performance across 4 conditions:
 - Correlation with "Be More Human" philosophy (deliberate choice)
 - Customer behavior: In-store product evaluation
 
-## 💡 Business Insights
-
-### Strategic Recommendations
-
-**For Nike Products:**
-- ✅ Maximize online discount promotions
-- ✅ Email campaigns, app-based deals, promo codes
-- ❌ Minimize offline discount spending (ineffective)
-
-**For Reebok Products:**
-- ✅ Prioritize in-store promotions (especially Lifestyle & Gym)
-- ✅ "Deal of the day" displays, prominent pricing
-- ❌ Avoid online discounts for everyday categories
-
-**For Other Brands:**
-- ✅ Balanced approach works equally well
-
-### ROI Potential
-- Reallocating discount budgets by brand could improve ROI by 56-75%
-- Based on current effect size differences
-
 ## 🎓 Marketing Philosophy Connection
 
 The analysis reveals a striking correlation between brand slogans and discount effectiveness:
